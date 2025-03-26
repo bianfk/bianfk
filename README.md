@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/bianfk/SQL-Queries-Filters/tree/main">Applying SQL Queries Filters</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -29,7 +29,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ### Endpoint
@@ -56,5 +55,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/bianfk/SQL-Queries-Filters/tree/main">Applying SQL Queries Filters</a>
 - SOC Automation Project
