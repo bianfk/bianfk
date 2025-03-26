@@ -15,6 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| SQL                                           | <a href="https://github.com/bianfk/SQL-Queries-Filters/tree/main">Applying SQL Queries Filters</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/bianfk/SQL-Queries-Filters/tree/main">Applying SQL Queries Filters</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
