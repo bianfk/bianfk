@@ -1,12 +1,18 @@
-# Hi, I'm Bian (Fidele)!
+# 👋 Hi, I'm Bian (Fidele)!
 <a href="https://linkedin.com/in/bianfk"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+I'm deeply passionate about technology and driven by a desire to solve complex problems through logical thinking and continuous learning.
 
-I have a profound interest in technology and a dedication to solving complex problems.
+## 🎯 Objective
 
-## Objective
+With a foundation in computer science, I've developed a strong interest in cybersecurity. I'm currently focused on transitioning into the field, with the goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst—where I can apply my skills to help detect, investigate, and respond to cyber threats.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I’m actively preparing for the CompTIA Security+ certification and building hands-on skills through labs on TryHackMe, self-guided projects, and real-world learning resources.
+
+## Portfolio
+
+🛡️ [Cybersecurity Portfolio](https://github.com/bianfk/cybersecurity-portfolio)  
+My hands-on documentation of security labs, TryHackMe exercises, malware analysis notes, and practical projects while studying for the CompTIA Security+ and learning threat detection.
 
 ## Skills
 
@@ -17,7 +23,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | [Applying SQL Queries Filters](https://github.com/bianfk/SQL-Queries-Filters/tree/main)|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
