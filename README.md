@@ -18,12 +18,12 @@ My hands-on documentation of security labs, TryHackMe exercises, malware analysi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SQL                                           | [Applying SQL Queries Filters](https://github.com/bianfk/SQL-Queries-Filters/tree/main)|
-| SIEM Implementation and Log Analysis          | [Applying SQL Queries Filters](https://github.com/bianfk/SQL-Queries-Filters/tree/main)|
-| Network Traffic Monitoring and Attack Detection | [Applying SQL Queries Filters](https://github.com/bianfk/SQL-Queries-Filters/tree/main)|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SQL                                           | SOC-Projects|
+| SIEM Implementation and Log Analysis          | SOC-Projects|
+| Network Traffic Monitoring and Attack Detection | SOC-Projects|
+| Security Automation with Shuffle SOAR         | SOC-Projects|
+| Incident Response Planning and Execution      | SOC-Projects|
+| Scripting and Automation for Threat Mitigation | SOC-Projects|
 
 ## Tools
 
@@ -44,7 +44,3 @@ My hands-on documentation of security labs, TryHackMe exercises, malware analysi
 
 [![Google Certificate](https://img.shields.io/badge/Google-Cybersecurity-blue?logo=google)](https://coursera.org/share/57c87532da7e695690247e0e36e4b408)
 
-
-## Projects
-- <a href="https://github.com/bianfk/SQL-Queries-Filters/tree/main">Applying SQL Queries Filters</a>
-- SOC Automation Project
